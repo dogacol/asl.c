@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.egg-info/
+*.egg
+dist/
+build/
+.pytest_cache/
+*.mp4
+*.mov
+*.m4v
+*.wav
+*.mp3
+work/
+output/
+input/
+.env
