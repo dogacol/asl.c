@@ -1,0 +1,19 @@
+# Core
+pydantic>=2.5,<3
+lxml>=5.1,<6
+pyyaml>=6.0,<7
+click>=8.1,<9
+rich>=13.0,<14
+
+# Video / audio analysis
+scenedetect[opencv]>=0.6,<1
+mlx-whisper>=0.4,<1
+mlx-vlm>=0.3,<1
+
+# Watch mode
+watchdog>=4.0,<5
+
+# Dev
+pytest>=8.0,<9
+pytest-cov>=5.0,<6
+ruff>=0.4,<1
